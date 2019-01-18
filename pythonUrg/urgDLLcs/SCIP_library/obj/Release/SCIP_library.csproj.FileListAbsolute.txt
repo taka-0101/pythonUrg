@@ -1,0 +1,10 @@
+D:\VisualStudio2013\urgDLLcs\SCIP_library\bin\Release\SCIP_library.dll
+D:\VisualStudio2013\urgDLLcs\SCIP_library\bin\Release\SCIP_library.pdb
+D:\VisualStudio2013\urgDLLcs\SCIP_library\obj\Release\SCIP_library.csprojResolveAssemblyReference.cache
+D:\VisualStudio2013\urgDLLcs\SCIP_library\obj\Release\SCIP_library.dll
+D:\VisualStudio2013\urgDLLcs\SCIP_library\obj\Release\SCIP_library.pdb
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\SCIP_library\bin\Release\SCIP_library.dll
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\SCIP_library\bin\Release\SCIP_library.pdb
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\SCIP_library\obj\Release\SCIP_library.csprojResolveAssemblyReference.cache
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\SCIP_library\obj\Release\SCIP_library.dll
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\SCIP_library\obj\Release\SCIP_library.pdb

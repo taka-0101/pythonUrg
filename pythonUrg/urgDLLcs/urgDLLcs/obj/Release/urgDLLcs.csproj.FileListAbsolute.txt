@@ -1,0 +1,13 @@
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\bin\Release\urgDLLcs.dll
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\bin\Release\urgDLLcs.pdb
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\bin\Release\SCIP_library.dll
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\bin\Release\SCIP_library.pdb
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\obj\Release\urgDLLcs.csprojResolveAssemblyReference.cache
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\obj\Release\urgDLLcs.dll
+D:\VisualStudio2013\urgDLLcs\urgDLLcs\obj\Release\urgDLLcs.pdb
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\urgDLLcs\bin\Release\urgDLLcs.dll
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\urgDLLcs\bin\Release\urgDLLcs.pdb
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\urgDLLcs\bin\Release\SCIP_library.dll
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\urgDLLcs\bin\Release\SCIP_library.pdb
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\urgDLLcs\obj\Release\urgDLLcs.dll
+C:\Users\take\Desktop\pythonUrg\urgDLLcs\urgDLLcs\obj\Release\urgDLLcs.pdb

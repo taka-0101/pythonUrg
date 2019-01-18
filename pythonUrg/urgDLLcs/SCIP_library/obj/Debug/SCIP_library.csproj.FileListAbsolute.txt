@@ -1,0 +1,10 @@
+C:\Users\take\Downloads\Urg_cs_sample\SCIP_library\bin\Debug\SCIP_library.dll
+C:\Users\take\Downloads\Urg_cs_sample\SCIP_library\bin\Debug\SCIP_library.pdb
+C:\Users\take\Downloads\Urg_cs_sample\SCIP_library\obj\Debug\SCIP_library.csprojResolveAssemblyReference.cache
+C:\Users\take\Downloads\Urg_cs_sample\SCIP_library\obj\Debug\SCIP_library.dll
+C:\Users\take\Downloads\Urg_cs_sample\SCIP_library\obj\Debug\SCIP_library.pdb
+C:\Users\take\Desktop\Urg_cs_sample\SCIP_library\bin\Debug\SCIP_library.dll
+C:\Users\take\Desktop\Urg_cs_sample\SCIP_library\bin\Debug\SCIP_library.pdb
+C:\Users\take\Desktop\Urg_cs_sample\SCIP_library\obj\Debug\SCIP_library.csprojResolveAssemblyReference.cache
+C:\Users\take\Desktop\Urg_cs_sample\SCIP_library\obj\Debug\SCIP_library.dll
+C:\Users\take\Desktop\Urg_cs_sample\SCIP_library\obj\Debug\SCIP_library.pdb
